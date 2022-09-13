@@ -466,7 +466,7 @@ section.templates-description{
   font-size: 30px;
   font-weight: 700;
   line-height: 40px;
-font-family: 'Inter', sans-serif;
+font-family:'Roboto',sans-serif;
    letter-spacing: 1px;
    color: #fff;
 }
@@ -569,7 +569,7 @@ line-height: 21px;
 .background .counter-box span {
   font-size: 32px;
   font-weight: 700;
-  font-family: 'Inter', sans-serif ;
+  font-family:'Roboto',sans-serif ;
   gap: 20px;
    color: #fff;
 
@@ -586,7 +586,7 @@ line-height: 21px;
   font-size: 25px;
   font-weight: 500;
   flex-direction: row;
-  font-family: 'Inter', sans-serif ;
+  font-family:'Roboto',sans-serif ;
  color: #1A07D5;
 
 }
@@ -625,7 +625,7 @@ line-height: 21px;
   margin-block-end: 2px;
 }
 .tesi-card .testi-text{
-  font-family:' Roboto';
+  font-family:'Roboto',sans-serif;
   font-size: 16px;
   font-weight: 400;
   color: #161616;
@@ -653,7 +653,7 @@ margin-block: 20px 15px;
    position: relative;
   max-width: max-content;
   color:hsl(210, 26%, 7%);
-  font-family:' Roboto';
+  font-family:'Roboto',sans-serif;
   font-size: 18px;
   font-weight: 600;
   letter-spacing: -1px;
